@@ -1,4 +1,4 @@
-<img width="180px" style="border-radius: 50%" bor src="icon.png">
+![logo](icon.png)
 
 # Kai's技术文档库
 
